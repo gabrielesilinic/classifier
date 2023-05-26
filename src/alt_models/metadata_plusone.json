@@ -1,0 +1,1 @@
+{"class_indices": {"cat": 0, "not_cat": 1}, "input_shape": [200, 200, 1], "epochs": 13, "optimizer": "RMSprop", "loss": "binary_crossentropy", "metrics": ["accuracy"]}
